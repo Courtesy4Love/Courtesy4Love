@@ -1,16 +1,21 @@
-## Hi there 👋
+# About Me
 
-<!--
-**Courtesy4Love/Courtesy4Love** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
+I'm Courtney, an aspiring SOC Analyst based in the Philippines. I'm building toward a career in blue team cybersecurity — currently a student.
 
-Here are some ideas to get you started:
+## What am I working on?
+Sharpening core SOC skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Alert triage** — evaluating and prioritizing security alerts
+- **Telemetry analysis** — digging into logs/data to spot what matters
+- **Threat hunting** — proactively searching for hidden threats
+- **Incident escalation** — handling and escalating incidents with quality and clarity
+
+## Tools I use
+
+- **LetDefend, CyberDefenders, SOCSimulator** — hands-on SOC training platforms
+- **Obsidian** — note-taking, documentation, tips, and a glossary covering both blue team and red team concepts
+
+## How to reach me
+
+I document my training progress, which is posted frequently on **LinkedIn** and **Medium**.
