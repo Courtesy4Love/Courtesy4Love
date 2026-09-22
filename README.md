@@ -2,6 +2,8 @@
 
 ### Aspiring SOC Analyst | Blue Team Enthusiast | Philippines 🇵🇭
 
+🔭 Currently working through the **LetsDefend SOC Analyst Learning Path**
+
 ---
 
 ## About Me
